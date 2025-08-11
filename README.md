@@ -31,7 +31,7 @@ It opens tons of windows playing the iconic video and keeps throwing up alerts t
 - ComputerVirusWatch — made variants of the `.exe` in 2013  
 - "Cheap Radio Thrills" CD — music source  
 
-**How to run it**
+***How to run it***
 
 1. Clone or download this repo  
 2. Open the project in Xcode  
@@ -39,7 +39,7 @@ It opens tons of windows playing the iconic video and keeps throwing up alerts t
 4. Build and run on your Mac  
 5. Watch the madness unfold  
 
-**How it works (quick tech rundown)**
+***How it works (quick tech rundown)***
 
 - SwiftUI app using AVKit for video playback  
 - Manages multiple NSWindows that each play the prank video  
@@ -48,7 +48,6 @@ It opens tons of windows playing the iconic video and keeps throwing up alerts t
 - Closing a window triggers an alert and stops it from closing  
 - Press spacebar to toggle window movement  
 
----
 
 **License**
 
