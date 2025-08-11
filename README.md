@@ -48,17 +48,14 @@ It opens tons of windows playing the iconic video and keeps throwing up alerts t
 - Closing a window triggers an alert and stops it from closing  
 - Press spacebar to toggle window movement  
 
+---
 
-**License**
+***License***
 
 © Birdie Works 2025. All rights reserved.  
 Mit Licensed, do what you want.
 
----
-
-## Disclaimer
-
-This is a harmless prank app for fun and nostalgia.  
-Use responsibly — don’t ruin anyone’s day!  
-
----
+> **Disclaimer**
+>
+>This is a harmless prank app for fun and nostalgia.  
+>Use responsibly — don’t ruin anyone’s day!  
