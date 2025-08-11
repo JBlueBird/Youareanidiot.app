@@ -1,12 +1,12 @@
 # Youareanidiot.exe for MacOS
 
-**What is this?**
+***What is this?***
 
 Youareanidiot.exe for MacOS is a prank app that mimics the classic *You Are An Idiot*.exe from Windows—but on Mac.  
 It opens tons of windows playing the iconic video and keeps throwing up alerts that say “You are an idiot!” so you can annoy your friends (or yourself).
 
 
-**Features**
+***Features***
 
 - Opens multiple prank windows automatically  
 - Plays the classic `youare.mp4` video in each window  
@@ -16,14 +16,14 @@ It opens tons of windows playing the iconic video and keeps throwing up alerts t
 - Press **spacebar** to toggle window movement on/off  
 - Minimal window style with no title bar  
 
-**Credits**
+***Credits***
 
-**MacOS Port**  
+*MacOS Port* 
 - JBlueBird — for MacOS port programming  
   [https://github.com/JBlueBird](https://github.com/JBlueBird)  
 - YouTube — for the original `youare.mp4` video  
 
-**Original Creators / Inspiration**  
+*Original Creators / Inspiration*
 - Jonty Lovell — created the original *youareanidiot*  
   [https://youareanidiot.cc/](https://youareanidiot.cc/)  
 - Andrew Regner — created the original domain  
