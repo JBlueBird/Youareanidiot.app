@@ -1,3 +1,5 @@
+<img src="screenshot.png" alt="My app" width="500" height="600">
+
 # Youareanidiot.exe for MacOS
 
 ***What is this?***
